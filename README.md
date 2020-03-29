@@ -1,6 +1,6 @@
 # Albert Heijn delivery date checker
 
-Due to COVID19 the delivery service of Albert Heijn is very busy. This script checks Albert Heijn for any available delivery dates by postal code, and sends a Telegram message whenever a spot is available. 
+Due to COVID19 the delivery service of Albert Heijn is very busy. This script checks Albert Heijn for any available delivery slots by postal code, and sends a Telegram message whenever a spot is available. 
 
 ## Usage
 
