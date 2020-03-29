@@ -5,4 +5,4 @@ Due to COVID19 the delivery service of Albert Heijn is very busy. This script ch
 ## Usage
 
 Modify the required values in ah.py: telegram api key, telegram chat id and your postal code.
-Put the scripts in a cronjob to run it every X.
+Put the script in a cronjob to run it every X.
